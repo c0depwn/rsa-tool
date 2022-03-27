@@ -6,6 +6,9 @@ file using a generated RSA keypair.
 This tool should not be used and is simply an implementation to gain better understanding on how RSA works.
 Each character of the input file is encrypted separately which makes this highly vulnerable to very simple attacks.
 
+## Usage
+To get an idea of what you can do with this tool try to run the `help` command.
+
 ## Keypair generation
 To generate a new keypair use the following command.
 ```
